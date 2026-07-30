@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: Wei-Group's website
 subtitle: A big family, focusing on electrochemical energy storage science in SUSTech, Shenzhen.
-description: Wei group is a research team in Southern University of Science and Technology (SUSTech), focusing on electrochemical energy storage. The group is lead by Prof.Wei Lei and the lab is part of the Mechanical and Energy Engineering Department from the collage of Engineering. In Wei Group, our research focus on flow battery (Various metal based and Organic based systems), Li/Na ion batteries, and Battery Management System (BMS) etc. 
+description: Wei group is a research team in Southern University of Science and Technology, focusing on electrochemical energy storage. The group is lead by Prof.Wei Lei and the lab is part of the Mechanical and Energy Engineering Department from the collage of Engineering. In Wei Group, our research focus on flow battery, Li/Na ion batteries, and Battery Management System etc. 
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
