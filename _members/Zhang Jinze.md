@@ -1,6 +1,6 @@
 ---
 name: Zhang Jinze
-image: images/photo.jpg
+image: images/106911710567686028.jpg
 description: Master student
 role: Half worker half learner
 links:
